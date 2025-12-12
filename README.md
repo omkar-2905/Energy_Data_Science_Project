@@ -260,29 +260,6 @@ Implemented constrained optimization for battery management:
 
 **Savings**: $1.00/day (~$365/year) with high PV scenario
 
-## Results & Visualizations
-
-### Sample Outputs
-
-#### 1. Hourly Pattern Heatmaps
-![Heatmaps](Task3_Hourly_Pattern_Heatmaps.png)
-*Shows demand, PV generation, and price patterns by hour and day/month*
-
-#### 2. Feature Importance Analysis
-![Features](Task5_Feature_Importance.png)
-*Top predictors for demand forecasting across multiple methods*
-
-#### 3. Time Series Decomposition
-![Decomposition](Task6_Decomposition_Daily.png)
-*Separates trend, seasonality, and residual components*
-
-#### 4. Model Comparison
-![Models](Task8_Model_Comparison_Predictions.png)
-*Performance comparison: ARIMA vs. SARIMA vs. XGBoost*
-
-#### 5. Optimal Battery Control
-![Optimization](Task11_PV_high_Optimal_Control.png)
-*24-hour optimal control strategy for battery charging/discharging*
 
 ### Performance Metrics Summary
 

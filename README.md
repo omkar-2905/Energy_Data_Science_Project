@@ -43,7 +43,7 @@ This project develops an intelligent **Home Energy Management System (HEMS)** to
   - Dynamic pricing
   - Weather data (temperature, cloud cover, radiation, wind speed, etc.)
 
-## ✨ Key Features
+## Key Features
 
 - **Comprehensive Data Cleaning**: Multiple imputation methods (deletion, median, KNN, MICE)
 - **Advanced Feature Engineering**: 40+ temporal, lag, and interaction features
